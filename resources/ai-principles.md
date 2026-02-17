@@ -1,6 +1,6 @@
 # Principles for Using AI Today
 
-These principles apply to how you use AI tools during this hackathon — and to how you think about AI in your work more broadly.
+These principles apply to how you use AI tools during this workshop — and to how you think about AI in your work more broadly.
 
 ---
 

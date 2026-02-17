@@ -1,6 +1,6 @@
 # Glossary
 
-Key terms used during the hackathon.
+Key terms used during the workshop.
 
 ---
 

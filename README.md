@@ -1,6 +1,6 @@
-# AI-Enabled Service Design Hackathon
+# AI-Enabled Service Design Workshop
 
-A reference resource for a one-day hackathon where government digital professionals use AI tools to go from problem definition to working HTML prototype. Browse the guides, copy the prompts, and use the templates to structure your thinking and build something real.
+A reference resource for a one-day workshop where government digital professionals use AI tools to go from problem definition to working HTML prototype. Browse the guides, copy the prompts, and use the templates to structure your thinking and build something real.
 
 ## Who this is for
 

@@ -17,7 +17,7 @@ Think about the services you have worked on, the problems you have seen, the use
 
 **Next 20 minutes — persona and assumptions.** Use the persona and assumptions prompts in [prompts/problem-and-research.md](../prompts/problem-and-research.md). Challenge what the AI gives you — does it match what you have seen in research, casework, delivery?
 
-**Final 20 minutes — map the service and pick your intervention.** Use the prompts in [prompts/service-mapping.md](../prompts/service-mapping.md). Identify pain points. Choose the area your prototype will address this afternoon.
+**Final 20 minutes — map the service and pick your intervention.** Use the prompts in [prompts/service-mapping.md](../prompts/service-mapping.md). Identify pain points. Choose the area your prototype will address this afternoon. Use the [content and language prompts](../prompts/content-and-language.md) to check and sharpen your problem statement wording.
 
 Use the [team worksheet](../templates/team-worksheet.md) to capture your work as you go.
 

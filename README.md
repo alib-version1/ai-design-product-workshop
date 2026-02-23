@@ -39,10 +39,14 @@ The day has three parts:
 | The Challenge | [01-challenge/](01-challenge/) |
 | Sprint 1: Define your problem | [02-sprint-define/GUIDE.md](02-sprint-define/GUIDE.md) |
 | Sprint 2: Build your prototype | [03-sprint-prototype/GUIDE.md](03-sprint-prototype/GUIDE.md) |
-| Prompt library | [prompts/](prompts/) |
+| Problem framing and research prompts | [prompts/problem-and-research.md](prompts/problem-and-research.md) |
+| Service mapping prompts | [prompts/service-mapping.md](prompts/service-mapping.md) |
+| Content and language prompts | [prompts/content-and-language.md](prompts/content-and-language.md) |
+| Prototyping prompts | [prompts/prototyping.md](prompts/prototyping.md) |
 | Example outputs and reference pages | [examples/](examples/) |
 | Team worksheet | [templates/team-worksheet.md](templates/team-worksheet.md) |
 | Presentation template | [templates/presentation.md](templates/presentation.md) |
+| Glossary | [resources/glossary.md](resources/glossary.md) |
 
 ## Tools
 

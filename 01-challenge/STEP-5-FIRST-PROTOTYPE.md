@@ -37,7 +37,7 @@ Button text: Start now
 Style it like GOV.UK:
 - Background: white
 - Text colour: #0b0c0c
-- Link colour: #1a65a6
+- Link colour: #1d70b8
 - Start button: #0f7a52 with white text, large
 - A simple header bar (blue background #1d70b8, white "GOV.UK" text)
 - A simple footer (light grey background, #f4f8fb)
@@ -55,10 +55,6 @@ You described a page in plain English. Your AI tool turned it into a working web
 It will not be perfect. The styling might be slightly off. The layout might need tweaking. That is fine. The point is: **you went from a description to a working page in under a minute.**
 
 In Sprint 2, you will build multiple connected pages for your own problem. This was the first step.
-
-## Reference output
-
-See [examples/govuk-start-page.html](../examples/govuk-start-page.html) for what the output should look like. You can open this file in your browser to compare.
 
 ---
 

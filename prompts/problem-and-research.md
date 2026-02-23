@@ -99,3 +99,61 @@ Identify key assumptions we are making. Per assumption:
 - How we could test it
 - Confidence (high/medium/low)
 ```
+
+---
+
+## Prompt 7: Stakeholder Map
+
+```
+Service: [brief description]
+Problem we are solving: [summary]
+
+Map the stakeholders:
+1. Who are the users (direct recipients of the service)?
+2. Who are the operators (staff who run or deliver the service)?
+3. Who are the sponsors or owners (accountable for the service)?
+4. Who are the influencers (policy, legal, compliance, other teams)?
+5. Whose buy-in do we need to make this change?
+
+For each group: name, their goal, their concern, their level of influence.
+```
+
+---
+
+## Prompt 8: Policy and Constraint Check
+
+```
+Service we are designing for: [describe what the service does and who uses it]
+What we are proposing to change or prototype: [describe the new feature or improvement]
+
+Help us identify:
+1. Policy or legislative constraints that might affect this design
+2. Data protection or privacy considerations (GDPR/UK GDPR)
+3. Accessibility requirements (WCAG 2.2 AA, Public Sector Bodies Accessibility Regulations)
+4. Departmental standards or GOV.UK Service Standard points that apply
+5. Questions we should be asking before building anything
+
+Flag anything that would need a legal, policy, or security review before going live.
+Note: this is for awareness, not a comprehensive audit. We are a workshop team, not legal counsel.
+```
+
+---
+
+## Prompt 9: Decision Log
+
+Use this at the **end of Sprint 1** to capture what your team decided and why, before you start building. It prevents the team from relitigating the same decisions during Sprint 2.
+
+```
+We are prototyping: [one sentence description]
+
+Decisions we made in Sprint 1:
+[list each decision — e.g. "We chose to focus on the status-checking step, not the application form"]
+
+For each decision, document:
+- What we decided
+- Why (the rationale)
+- What we considered and ruled out
+- What would make us revisit this
+
+Format as a simple table with those four columns.
+```

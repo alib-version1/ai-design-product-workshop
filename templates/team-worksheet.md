@@ -94,5 +94,17 @@ Use this worksheet to capture your team's work during Sprint 1. Fill it in as yo
 **The one thing the prototype must show:**
 
 
-**Who is driving [Kiro / GitHub Copilot]:**
+**Who is driving in Sprint 2 [Kiro / GitHub Copilot]:**
+
+---
+
+## 5. Key decisions
+
+Use this at the end of Sprint 1 to record what you decided and why. Prevents relitigating decisions in Sprint 2.
+
+| Decision | Why | What we ruled out | What would change this |
+|----------|-----|-------------------|----------------------|
+| | | | |
+| | | | |
+| | | | |
 

@@ -4,7 +4,7 @@ Use these prompts with **M365 Copilot** to get the words right — headings, lab
 
 ---
 
-## Prompt 9: Content Review
+## Prompt 1: Content Review
 
 ```
 Service: [description]
@@ -21,7 +21,7 @@ Plain English. GOV.UK style guide.
 
 ---
 
-## Prompt 10: Error and Help Content
+## Prompt 2: Error and Help Content
 
 ```
 Service where users need to: [task]

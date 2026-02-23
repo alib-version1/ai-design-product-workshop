@@ -94,5 +94,5 @@ Use this worksheet to capture your team's work during Sprint 1. Fill it in as yo
 **The one thing the prototype must show:**
 
 
-**Who is driving Copilot:**
+**Who is driving [Kiro / GitHub Copilot]:**
 

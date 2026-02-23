@@ -22,13 +22,13 @@ No prior AI experience is needed. Everything is explained step by step.
 | 15:30 | Break |
 | 15:45 | Team presentations and reflection |
 
-The morning is about learning the tools and thinking through problems together. The afternoon is about making something real. You will work in teams throughout, using M365 Copilot to sharpen your thinking and GitHub Copilot to build a working prototype.
+The morning is about learning the tools and thinking through problems together. The afternoon is about making something real. You will work in teams throughout, using M365 Copilot to sharpen your thinking and your prototyping tool to build a working prototype.
 
 ## How the day works
 
 The day has three parts:
 
-1. **A guided challenge** — every team works the same problem together, learning M365 Copilot and GitHub Copilot on a shared scenario
+1. **A guided challenge** — every team works the same problem together, learning M365 Copilot and their prototyping tool on a shared scenario
 2. **Sprint 1: Define your own problem** — pick a real problem from your professional experience, frame it, create a persona, and map the service
 3. **Sprint 2: Build your prototype** — turn your problem into a working HTML prototype you can click through and present
 
@@ -49,7 +49,9 @@ The day has three parts:
 You will use two AI tools today:
 
 - **M365 Copilot** — for thinking, framing, and structuring. Problem statements, personas, service maps. [Getting started guide](guides/getting-started-m365-copilot.md)
-- **GitHub Copilot in VS Code** — for building HTML prototypes from plain English descriptions. [Getting started guide](guides/getting-started-github-copilot.md)
+- **AWS Kiro or GitHub Copilot in VS Code** — for building HTML prototypes from plain English descriptions. Use whichever tool is installed on your machine.
+  - [Getting started with AWS Kiro](guides/getting-started-kiro.md) — if using Kiro, use **vibe mode** throughout the day
+  - [Getting started with GitHub Copilot](guides/getting-started-github-copilot.md)
 
 New to HTML? Read [Prototyping for non-developers](guides/prototyping-for-non-developers.md).
 

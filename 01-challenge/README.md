@@ -2,7 +2,7 @@
 
 This is a guided challenge. Every team works the same problem, following the same steps.
 
-Steps 1–4 use M365 Copilot — you will frame a problem, create a persona, and map a service. Step 5 uses GitHub Copilot to generate your first web page.
+Steps 1–4 use M365 Copilot — you will frame a problem, create a persona, and map a service. Step 5 uses AWS Kiro or GitHub Copilot to generate your first web page.
 
 Each step has a prompt to copy, guidance on what to look for, and a sample output. The goal is not perfection — it is getting comfortable with the tools and the cycle of prompt, review, challenge, refine.
 
@@ -49,4 +49,4 @@ Every government department has a version of this. Whether it is a court hearing
 | [Step 2](STEP-2-PERSONA.md) | Create a persona | M365 Copilot |
 | [Step 3](STEP-3-SERVICE-MAP.md) | Map the current service | M365 Copilot |
 | [Step 4](STEP-4-SCOPE.md) | Decide what to prototype | M365 Copilot |
-| [Step 5](STEP-5-FIRST-PROTOTYPE.md) | Build your first page | GitHub Copilot |
+| [Step 5](STEP-5-FIRST-PROTOTYPE.md) | Build your first page | AWS Kiro / GitHub Copilot |

@@ -11,7 +11,7 @@ Making services usable by everyone, including people with disabilities. Governme
 The parts of a service that users cannot see — internal processes, systems, staff actions, and policies that happen behind the scenes.
 
 **Copilot**
-An AI assistant. Today you are using two: M365 Copilot (for thinking and writing) and GitHub Copilot (for building HTML prototypes).
+An AI assistant. M365 Copilot is used for thinking and writing. AWS Kiro or GitHub Copilot in VS Code is used for building HTML prototypes.
 
 **Double diamond**
 A design process model. The first diamond is about understanding the problem (discover and define). The second is about solving it (develop and deliver).

@@ -59,6 +59,8 @@ You will use two AI tools today:
 
 New to HTML? Read [Prototyping for non-developers](guides/prototyping-for-non-developers.md).
 
+Getting more out of your tool? Read [Tips and tricks](guides/tips-and-tricks.md) — what to do when the tool loops, how to frame requests, and ten habits that get better results.
+
 ## Principles for using AI today
 
 1. **AI assists, you decide.** AI generates options. You apply professional judgement.

@@ -1,5 +1,13 @@
 # Sprint 2: Build Your Prototype
 
+## Before you start: load your guardrails
+
+Before your first prompt, tell your AI tool to follow the project guardrails. In your AI tool chat, type:
+
+> "Please follow the rules in @GUARDRAILS.md for this project."
+
+This sets the AI to work the way your team needs — plain English output, no technical setup required, GOV.UK styling applied by default. You only need to do this once per session.
+
 ## Your brief
 
 Turn your problem, persona, and service map into something you can show. A working HTML prototype — screens you can click through that demonstrate the concept and the user journey.
@@ -37,6 +45,16 @@ This is not production code. It does not need to be pixel-perfect. It needs to t
 ## When you are ready to present
 
 Use the [presentation template](../templates/presentation.md) to structure your 5–7 minute slot.
+
+## Are you ready to present?
+
+Before presentations, check:
+
+- [ ] You can click through your journey from start to finish without breaking
+- [ ] Your persona's name or situation appears in the prototype
+- [ ] Every screen has a clear heading
+- [ ] Your problem statement is on your first slide
+- [ ] You know which screen best shows the value of your idea
 
 ---
 

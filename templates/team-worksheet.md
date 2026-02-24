@@ -72,6 +72,24 @@ Use this worksheet to capture your team's work during Sprint 1. Fill it in as yo
 
 ---
 
+## 3b. Constraints and assumptions
+
+**Hard constraints** — things that genuinely cannot change (law, regulation, data you cannot access, systems you must use):
+
+
+**Soft constraints** — things that feel fixed but might not be (current process, org culture, technology habits, "we've always done it this way"):
+
+
+**Key assumptions your team is making** — things you believe but have not tested:
+
+| Assumption | Why it matters if wrong | How you could test it |
+|------------|------------------------|----------------------|
+| | | |
+| | | |
+| | | |
+
+---
+
 ## 4. Prototype scope
 
 **Which screens will you build? (3–5)**

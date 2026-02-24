@@ -36,3 +36,9 @@ https://www.gov.uk/service-manual/service-standard
 
 The government framework for using generative AI responsibly.
 https://www.gov.uk/government/publications/generative-ai-framework-for-hmg
+
+## AI Across the Full Delivery Lifecycle
+
+This workshop covers Discovery-style thinking and rapid prototyping. The UK Government AI SDLC example (maintained by Version1) shows how AI fits across the full delivery lifecycle — Discovery, Alpha, and Beta — with phase-by-phase playbooks for citizen-facing services, data platforms, and more. A good read after today.
+
+https://github.com/Version1/uk-gov-example-ai-sdlc

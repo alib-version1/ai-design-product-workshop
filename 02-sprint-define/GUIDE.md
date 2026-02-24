@@ -11,6 +11,17 @@ Think about the services you have worked on, the problems you have seen, the use
 - You could show the concept in 3–5 screens
 - Your team has enough collective knowledge to define it without doing new research
 
+## What kind of service are you working on?
+
+Choose the closest match — it shapes how you think about the problem and who your users are:
+
+- **Citizen-facing transaction** — a member of the public does something: applies, registers, reports, pays, requests
+- **Internal casework or operational tool** — staff process cases, make decisions, manage workflows
+- **Legacy modernisation** — an existing system that needs updating for users or compliance
+- **Data or reporting** — teams need better information to make decisions or spot patterns
+
+Most problems today fit the first two. If yours doesn't, the prototyping approach still works — just adjust your persona and service map accordingly.
+
 ## How to spend your time
 
 **First 20 minutes — choose and frame.** Each person writes down one problem from professional experience. Discuss. Pick one. Use the prompts in [prompts/problem-and-research.md](../prompts/problem-and-research.md) to sharpen it with M365 Copilot.
@@ -38,6 +49,16 @@ Use the [team worksheet](../templates/team-worksheet.md) to capture your work as
 - At least one persona
 - A service map showing where you plan to intervene
 - Agreement on 3–5 screens to prototype
+
+## Are you ready for Sprint 2?
+
+Before moving on, check your team has:
+
+- [ ] A problem statement you can explain in 30 seconds
+- [ ] At least one persona you believe in — not just what the AI generated
+- [ ] A service map showing where you plan to intervene
+- [ ] Agreement on which 3–5 screens to build
+- [ ] Key decisions recorded in your worksheet
 
 ---
 

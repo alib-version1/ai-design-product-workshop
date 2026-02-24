@@ -157,3 +157,25 @@ For each decision, document:
 
 Format as a simple table with those four columns.
 ```
+
+---
+
+## Prompt 10: Four Discovery Questions
+
+Use this prompt before anything else if your team is unsure whether the problem is real or well-defined enough to prototype. It runs a quick discovery review in 5 minutes.
+
+```
+Service: [brief description]
+What we think is going wrong: [describe the problem]
+
+Answer these four questions as if you are a discovery researcher doing a rapid evidence review. Be direct. If evidence is thin, say so.
+
+1. Is there actually a problem? Who struggles, how often, and what is the consequence for them when it goes wrong?
+2. Who experiences it differently? Are there groups — by age, channel, digital confidence, circumstance — who are more affected than others?
+3. What does policy or legislation actually require? What is genuinely mandated versus what is just how things have always been done?
+4. How do people currently get through it? What workarounds, shortcuts, or alternative channels do people use to cope?
+
+End with: what is the strongest evidence for this problem, and what are we assuming without evidence?
+```
+
+Use the output to sharpen your problem statement before moving on. If the AI's answer feels generic or unconvincing, your problem needs more definition before you prototype it.

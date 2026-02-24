@@ -20,37 +20,33 @@ Spec mode is powerful for real software projects. For a one-day workshop where y
 ## How to use it
 
 1. Open Kiro
-2. Create a new file: go to File > New File, name it `something.html`
-3. Open the AI chat panel — click the chat icon in the left sidebar
-4. Describe what you want in plain English
-5. Review the generated code and click Accept, or copy it into your file
-6. Save the file
-7. Double-click the file to open it in your browser
+2. Open the AI chat panel — click the chat icon in the left sidebar. Choose **Vibe** mode.
+3. Describe what you want in plain English — Kiro builds it and creates the file for you
+4. When Kiro shows you what it has generated, click **Accept**
+5. The file appears in your project. Double-click it to open it in your browser.
 
 ## Tips
 
 - Describe what you want visually: "a page with a heading and a green button that says Continue" — not technical language
 - Work on one page at a time
-- Preview your work by double-clicking the .html file — it opens in your browser
 - If the output is not right, follow up in the same chat: "make the heading bigger" or "add a back link"
 
 ## When things go wrong
 
 | Problem | What to try |
 |---------|------------|
-| Nothing happening | Check your file is saved with a `.html` extension |
+| Nothing happening | Make sure you clicked Accept after Kiro generated the page |
+| The page won't open in your browser | Double-click the file Kiro created in your project panel |
 | Output looks wrong | Describe what you want differently — be more specific about layout and colours |
-| Links between pages do not work | Tell Kiro "the back link should go to start.html" |
+| Links between pages do not work | Tell Kiro "the back link should go to the start page" |
 | Styling looks off | Say "make this look like GOV.UK with dark text and a green button" |
-| Code looks broken | Paste the whole file into the chat and say "fix this" |
+| The page looks wrong or incomplete | Describe what is missing or wrong and ask Kiro to fix it |
 
 ## Try it now
 
-1. Create a file called `test.html`
-2. Open the Kiro chat panel
-3. Type: "Create a simple HTML page with a heading that says Hello and a short paragraph. Clean and professional. All CSS embedded."
-4. Accept or copy the output into your file
-5. Save it
-6. Double-click to open in your browser
+1. Open the Kiro chat panel and make sure you are in **Vibe** mode
+2. Type: "Create a simple page with a heading that says Hello and a short paragraph. Clean and professional."
+3. Click **Accept** when Kiro generates it
+4. Double-click the file Kiro created to open it in your browser
 
 You should see a web page. That is all there is to it.

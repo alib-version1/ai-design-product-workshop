@@ -18,11 +18,9 @@ You are going to generate a single web page using your AI coding tool. This is y
 ## What to do
 
 1. Open your AI tool (as above)
-2. Create a new file and save it as `start.html`
-3. Copy the prompt below and paste it into the chat
-4. Accept or copy the code it generates into your file
-5. Save the file
-6. Double-click the file in your file explorer to open it in a browser
+2. Copy the prompt below and paste it into the chat
+3. Accept or copy the code it generates — the AI will create the file for you
+4. Double-click the file in your project panel to open it in a browser
 
 ## Prompt to copy
 
@@ -35,16 +33,14 @@ Before starting, users need: their application reference number
 Button text: Start now
 
 Style it like GOV.UK:
-- Background: white
-- Text colour: #0b0c0c
-- Link colour: #1d70b8
-- Start button: #0f7a52 with white text, large
-- A simple header bar (blue background #1d70b8, white "GOV.UK" text)
-- A simple footer (light grey background, #f4f8fb)
-- Maximum width 960px, centred
-- Clean, readable, professional
+- White background
+- Dark navy text
+- Blue links
+- A large green "Start now" button with white text
+- A simple header bar with a blue background and white "GOV.UK" text
+- A simple light grey footer
+- Clean, readable, professional layout
 
-All CSS must be embedded in the HTML file. No external files or links.
 The page must be complete and ready to open in a browser.
 ```
 

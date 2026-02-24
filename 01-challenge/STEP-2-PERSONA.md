@@ -40,4 +40,4 @@ See [examples/sample-persona.md](../examples/sample-persona.md) for an example p
 
 ---
 
-**Previous:** [Step 1 — Frame the Problem](STEP-1-PROBLEM-FRAMING.md) | **Next:** [Step 3 — Map the Current Service](STEP-3-SERVICE-MAP.md)
+**Previous:** [Step 1 — Frame the Problem](STEP-1-PROBLEM-FRAMING.md) | **Next:** [Step 3 — Map the Current Service](STEP-3-SERVICE-BLUEPRINT.md)

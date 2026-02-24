@@ -28,4 +28,4 @@ This is a prototype to communicate the concept — not a production service.
 
 ---
 
-**Previous:** [Step 3 — Map the Current Service](STEP-3-SERVICE-MAP.md) | **Next:** [Step 5 — Build Your First Page](STEP-5-FIRST-PROTOTYPE.md)
+**Previous:** [Step 3 — Map the Current Service](STEP-3-SERVICE-BLUEPRINT.md) | **Next:** [Step 5 — Build Your First Page](STEP-5-FIRST-PROTOTYPE.md)

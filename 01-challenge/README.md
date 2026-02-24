@@ -47,6 +47,6 @@ Every government department has a version of this. Whether it is a court hearing
 |------|-----------------|------|
 | [Step 1](STEP-1-PROBLEM-FRAMING.md) | Frame the problem | M365 Copilot |
 | [Step 2](STEP-2-PERSONA.md) | Create a persona | M365 Copilot |
-| [Step 3](STEP-3-SERVICE-MAP.md) | Map the current service | M365 Copilot |
+| [Step 3](STEP-3-SERVICE-BLUEPRINT.md) | Map the current service | M365 Copilot |
 | [Step 4](STEP-4-SCOPE.md) | Decide what to prototype | M365 Copilot |
 | [Step 5](STEP-5-FIRST-PROTOTYPE.md) | Build your first page | AWS Kiro / GitHub Copilot |

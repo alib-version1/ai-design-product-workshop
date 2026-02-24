@@ -15,7 +15,7 @@ Kiro has two modes. Use **vibe mode** today.
 
 Spec mode is powerful for real software projects. For a one-day workshop where you want to see and click something quickly, it is the wrong tool. Stick to vibe mode throughout.
 
-**How to make sure you are in vibe mode:** When you open the chat panel, look for the mode selector and choose **Vibe**. If you are ever prompted to generate specs or create task plans, decline and go back to the chat.
+**How to make sure you are in vibe mode:** When you open the chat panel, look for the mode selector and choose **Vibe**. 
 
 ## How to use it
 

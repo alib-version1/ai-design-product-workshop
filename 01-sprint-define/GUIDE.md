@@ -62,4 +62,4 @@ Before moving on, check your team has:
 
 ---
 
-**Next:** [Sprint 2 — Build Your Prototype](../03-sprint-prototype/GUIDE.md)
+**Next:** [Sprint 2 — Build Your Prototype](../02-sprint-prototype/GUIDE.md)

@@ -58,4 +58,4 @@ Before presentations, check:
 
 ---
 
-**Previous:** [Sprint 1 — Define Your Problem](../02-sprint-define/GUIDE.md)
+**Previous:** [Sprint 1 — Define Your Problem](../01-sprint-define/GUIDE.md)

@@ -13,32 +13,28 @@ No prior AI experience is needed. Everything is explained step by step.
 | Time | Session |
 |------|---------|
 | 09:30 | Welcome and overview |
-| 09:40 | AI in government product and service delivery — with live demo |
-| 10:10 | Challenge: teams work a shared problem together |
-| 10:45 | Break |
-| 11:00 | Sprint 1: Define your own problem |
+| 09:40 | AI in government product and service delivery |
+| 10:10 | Sprint 1: Define your own problem |
 | 12:30 | Lunch |
 | 13:00 | Sprint 2: Build your prototype |
 | 15:30 | Break |
 | 15:45 | Team presentations and reflection |
 
-The morning is about learning the tools and thinking through problems together. The afternoon is about making something real. You will work in teams throughout, using M365 Copilot to sharpen your thinking and your prototyping tool to build a working prototype.
+The morning is about framing a real problem using AI tools. The afternoon is about making something real. You will work in teams throughout, using M365 Copilot to sharpen your thinking and your prototyping tool to build a working prototype.
 
 ## How the day works
 
-The day has three parts:
+The day has two sprints:
 
-1. **A guided challenge** — every team works the same problem together, learning M365 Copilot and their prototyping tool on a shared scenario
-2. **Sprint 1: Define your own problem** — pick a real problem from your professional experience, frame it, create a persona, and map the service
-3. **Sprint 2: Build your prototype** — turn your problem into a working HTML prototype you can click through and present
+1. **Sprint 1: Define your own problem** — pick a real problem from your professional experience, frame it, create a persona, and map the service
+2. **Sprint 2: Build your prototype** — turn your problem into a working HTML prototype you can click through and present
 
 ## Quick links
 
 | What | Where |
 |------|-------|
-| The Challenge | [01-challenge/](01-challenge/) |
-| Sprint 1: Define your problem | [02-sprint-define/GUIDE.md](02-sprint-define/GUIDE.md) |
-| Sprint 2: Build your prototype | [03-sprint-prototype/GUIDE.md](03-sprint-prototype/GUIDE.md) |
+| Sprint 1: Define your problem | [01-sprint-define/GUIDE.md](01-sprint-define/GUIDE.md) |
+| Sprint 2: Build your prototype | [02-sprint-prototype/GUIDE.md](02-sprint-prototype/GUIDE.md) |
 | Problem framing and research prompts | [prompts/problem-and-research.md](prompts/problem-and-research.md) |
 | Service mapping prompts | [prompts/service-mapping.md](prompts/service-mapping.md) |
 | Content and language prompts | [prompts/content-and-language.md](prompts/content-and-language.md) |
@@ -60,6 +56,8 @@ You will use two AI tools today:
 New to HTML? Read [Prototyping for non-developers](guides/prototyping-for-non-developers.md).
 
 Getting more out of your tool? Read [Tips and tricks](guides/tips-and-tricks.md) — what to do when the tool loops, how to frame requests, and ten habits that get better results.
+
+Need to share code with your team? Use [codeshare.io](https://codeshare.io/) — a free, real-time code editor you can use in the browser with no sign-up.
 
 ## Principles for using AI today
 

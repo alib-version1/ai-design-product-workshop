@@ -14,7 +14,7 @@ No prior AI experience is needed. Everything is explained step by step.
 |------|---------|
 | 09:30 | Welcome and overview |
 | 09:40 | AI in government product and service delivery |
-| 10:10 | Sprint 1: Define your own problem |
+| 09:50 | Sprint 1: Define your own problem |
 | 12:30 | Lunch |
 | 13:00 | Sprint 2: Build your prototype |
 | 15:30 | Break |

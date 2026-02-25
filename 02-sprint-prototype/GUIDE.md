@@ -16,7 +16,7 @@ This is not production code. It does not need to be pixel-perfect. It needs to t
 
 ## How to spend your time
 
-**First 15 minutes — agree what to build.** Which screens, what flow, what content. Refer to your service map. Think about GOV.UK patterns.
+**First 15 minutes — agree what to build.** Which screens, what flow, what content. Before diving into pages, check your prototype scope against your service blueprint from Sprint 1. Ask: are we prototyping the right moment in the service? Does the front-stage we are building make sense given the back-stage process we mapped? If your blueprint showed a step where the user switches channel (e.g. goes from online to phone) or where a back-stage process determines what the user sees next, make sure your prototype accounts for that — even if it is just a page that says "at this point, a caseworker reviews your application." Think about GOV.UK patterns.
 
 **Next 90 minutes — build.** One person drives your AI coding tool (Kiro or GitHub Copilot). Everyone else directs — content, layout, flow, user perspective. Use the prompts in [prompts/prototyping.md](../prompts/prototyping.md). Work one page at a time: generate it, check it in the browser, move on.
 
@@ -27,7 +27,7 @@ This is not production code. It does not need to be pixel-perfect. It needs to t
 - **Interaction Designers**: Layout, components, flow between screens — does this follow GOV.UK patterns?
 - **Content Designers**: Every word on every page — headings, labels, hint text, error messages. Plain English.
 - **User Researchers**: Would our persona understand this? Where would they get stuck?
-- **Service Designers**: Does the front-stage make sense given the back-stage?
+- **Service Designers**: Does the front-stage make sense given the back-stage? Keep checking the prototype against the service blueprint — are we showing the right part of the journey?
 - **Product Managers**: What is in scope? Keep the team focused on the screens that tell the story.
 - **Business Analysts**: Process logic. What questions need asking? What are the rules?
 - **Delivery Managers**: Time. Keep the team moving. Make sure something is ready to present.

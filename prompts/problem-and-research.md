@@ -54,12 +54,14 @@ Suggest:
 
 ## Prompt 4: Persona Generator
 
+> **Important:** This generates a proto-persona — a hypothesis based on your team's assumptions and professional experience. It is not a validated research output. Treat it as a starting point to be tested with real users, not as evidence.
+
 ```
 Service: [brief description]
 Main users: [description]
 Key problem: [description]
 
-Create a realistic persona:
+Create a realistic proto-persona (a hypothesis based on our team's assumptions, not validated research):
 - Name, age, situation
 - Goals
 - Frustrations with the current experience
@@ -68,6 +70,7 @@ Create a realistic persona:
 - Digital confidence level
 
 A real person, not a segment. Grounded in practical reality.
+Label the output clearly as "Proto-persona — to be validated through user research."
 ```
 
 ---
@@ -179,3 +182,47 @@ End with: what is the strongest evidence for this problem, and what are we assum
 ```
 
 Use the output to sharpen your problem statement before moving on. If the AI's answer feels generic or unconvincing, your problem needs more definition before you prototype it.
+
+---
+
+## Prompt 11: Research Synthesis — What We Already Know
+
+Use this when your team has professional experience of the problem but no formal research to hand. It helps structure what you collectively know into organised evidence and — crucially — surfaces where the gaps are.
+
+```
+We are a team working on: [service description]
+The problem we are focusing on: [problem statement]
+
+Between us, we have professional experience of this service. Here is what we know from our work — observations, things users have told us, patterns we have seen, complaints we have heard:
+
+[paste bullet points, notes, or free-text from the team — the messier the better]
+
+Help us organise this into:
+1. Themes — group related observations together and name each theme
+2. Strength of evidence — for each theme, is this based on direct observation, second-hand reports, or assumption?
+3. Who is affected — which user groups does each theme apply to?
+4. Gaps — what important questions are NOT answered by what we know? What would a user researcher want to investigate next?
+
+Be honest about where evidence is thin. Label assumptions clearly.
+```
+
+---
+
+## Prompt 12: User Stories and Acceptance Criteria
+
+Use this to translate your workshop outputs into structured requirements. Useful for business analysts who want a tangible takeaway, and for anyone who needs to explain what the prototype represents in delivery terms.
+
+```
+Problem statement: [paste]
+Persona: [paste]
+Prototype scope: [list the 3-5 screens you are building and what each does]
+
+Generate user stories and acceptance criteria for the journey we are prototyping:
+
+For each screen or step, write:
+- A user story in the format: "As a [persona name], I need to [action], so that [outcome]"
+- 2-4 acceptance criteria in the format: "Given [context], when [action], then [result]"
+- Any business rules or conditions that apply (e.g. "if the user selects X, they are routed to Y")
+
+Keep language plain. These are draft stories to be refined — not a final backlog.
+```

@@ -31,6 +31,8 @@ Use this worksheet to capture your team's work during Sprint 1. Fill it in as yo
 
 ## 2. Persona
 
+> **This is a proto-persona** — based on your team's assumptions and professional experience, not validated user research. Treat it as a hypothesis to test, not a finding. If this service progresses to discovery or alpha, these assumptions should be tested with real users.
+
 **Name:**
 
 **Age:**

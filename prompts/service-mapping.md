@@ -93,3 +93,51 @@ Define what success looks like if this were built and deployed:
 Keep metrics specific. "Users are happier" is not a metric. "50% reduction in calls about application status" is.
 These are indicative and aspirational — the point is to show we have thought about impact, not to commit to numbers.
 ```
+
+---
+
+## Prompt 6: Business Rules and Decision Logic
+
+Use this to surface the rules that govern how a service works — the decision points, conditions, and data dependencies that determine what happens and to whom. These rules directly shape what your prototype needs to show: which questions to ask, in what order, and what happens based on the answers.
+
+```
+Service: [brief description]
+The part of the service we are focusing on: [describe the journey or process]
+
+Help us identify the business rules and decision logic:
+
+1. What are the key decision points in this journey? (moments where the service does something different based on conditions)
+2. For each decision point:
+   - What rule governs it? (e.g. "if the applicant is under 18, a parent must co-sign")
+   - What data or information is needed to make the decision?
+   - Where does that data come from — the user, a system, a staff member, a third party?
+   - What happens on each branch? (the "if this, then that")
+3. Are there eligibility rules, time limits, or thresholds that gate access to the service?
+4. Are any rules set by legislation or policy vs rules that are just "how it has always been done"?
+
+Present as a clear list or decision table. Flag anything where the rule is unclear or the team disagrees — those are the areas that need clarification before building.
+```
+
+---
+
+## Prompt 7: Trade-offs and What Happens Next
+
+Use this when preparing your presentation. It sharpens the product thinking by making explicit what you chose not to do, and helps frame the realistic next steps if the idea is worth pursuing.
+
+```
+Problem statement: [paste]
+What we prototyped: [describe the screens and journey you built]
+What we left out: [anything you discussed but deliberately excluded]
+
+Help us articulate:
+1. Trade-offs — what did we deliberately not address, and why? What are the risks of leaving these out?
+2. What would break first — if this were real, what is the first thing that would fail or frustrate users that our prototype does not cover?
+3. Next steps — if this prototype is compelling, what is the realistic next move?
+   - Is this a discovery (we need to research whether the problem is real)?
+   - Is this an alpha (we need to test whether this approach works)?
+   - Is this a business case (we need to make the case for investment)?
+   - What evidence would we need to gather?
+4. Quick wins — is there anything from this prototype that could be done without a full project? (e.g. content improvements, process changes, small fixes)
+
+Be practical. Frame this as what a product manager would take into a prioritisation or governance conversation.
+```

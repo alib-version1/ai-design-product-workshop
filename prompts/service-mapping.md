@@ -126,7 +126,7 @@ Use this when preparing your presentation. It sharpens the product thinking by m
 
 ```
 Problem statement: [paste]
-What we prototyped: [describe the screens and journey you built]
+What we prototyped: [describe what you built and the journey it shows]
 What we left out: [anything you discussed but deliberately excluded]
 
 Help us articulate:

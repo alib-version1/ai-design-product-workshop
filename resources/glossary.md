@@ -11,7 +11,7 @@ Making services usable by everyone, including people with disabilities. Governme
 The parts of a service that users cannot see — internal processes, systems, staff actions, and policies that happen behind the scenes.
 
 **Copilot**
-An AI assistant. M365 Copilot is used for thinking and writing. AWS Kiro or GitHub Copilot in VS Code is used for building HTML prototypes.
+An AI assistant. M365 Copilot is used for thinking and writing. AWS Kiro or GitHub Copilot in VS Code is used for building your prototype — generating HTML from plain English descriptions.
 
 **Double diamond**
 A design process model. The first diamond is about understanding the problem (discover and define). The second is about solving it (develop and deliver).
@@ -38,7 +38,7 @@ A fictional but realistic person representing a group of users. Based on researc
 An instruction you give to an AI tool. The more specific and contextual your prompt, the more useful the output.
 
 **Prototype**
-A working model of a service or part of a service. Today you are building HTML prototypes — web pages you can click through to demonstrate a concept.
+A working model of a service or part of a service that you can click through, demo, and build on. Today your prototype takes the form of HTML pages — simple files that open in a browser with no setup, styled to look and feel like real government services.
 
 **Semantic HTML**
 HTML that uses elements for their meaning, not just their appearance. For example, using `<h1>` for main headings, `<label>` for form labels, and `<nav>` for navigation. It matters for accessibility and screen readers.

@@ -38,8 +38,8 @@ Where you intervened in the service. Your hypothesis.
 
 Live demo. Walk us through the journey.
 
-- Show the screens in order
-- Explain what the user sees and does at each step
+- Show the prototype in order — click through it, do not just describe it
+- Explain what the user sees, does, and decides at each step
 - Point out the content and design decisions you made
 
 ---

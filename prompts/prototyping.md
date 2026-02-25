@@ -1,6 +1,6 @@
 # Prototyping Prompts
 
-Use these prompts with **AWS Kiro** or **GitHub Copilot in VS Code** during Sprint 2 to generate HTML pages for your prototype. Copy the prompt, replace the `[bracketed sections]` with your own content, and paste into the chat.
+Use these prompts with **AWS Kiro** or **GitHub Copilot in VS Code** during Sprint 2 to build your prototype. Copy the prompt, replace the `[bracketed sections]` with your own content, and paste into the chat.
 
 Prompts 1–7 produce self-contained HTML files with embedded CSS — no internet needed. Save the file, double-click to open in your browser, and iterate.
 

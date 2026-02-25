@@ -45,7 +45,7 @@ We have one day to prototype a solution:
 [paste problem statement]
 
 Suggest:
-1. Minimum viable journey (3-5 screens)
+1. Minimum viable journey (3–5 steps in the user's journey, end to end)
 2. What to include vs leave out
 3. The single most important thing the prototype must demonstrate
 ```
@@ -215,7 +215,7 @@ Use this to translate your workshop outputs into structured requirements. Useful
 ```
 Problem statement: [paste]
 Persona: [paste]
-Prototype scope: [list the 3-5 screens you are building and what each does]
+Prototype scope: [describe the user journey your prototype covers — what the user does at each step and what each step shows]
 
 Generate user stories and acceptance criteria for the journey we are prototyping:
 

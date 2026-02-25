@@ -37,3 +37,5 @@ Links between pages are just like links on a website — clicking "Continue" tak
 Think of yourself as the director. Your AI tool is the camera operator. You say what each page should show — the heading, the content, the buttons, the flow. It writes the code. You check the result in the browser and direct changes.
 
 Your expertise in user needs, content, and service design is what makes the prototype good. The code is just the medium.
+
+And what you build today is yours to keep.

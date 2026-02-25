@@ -8,7 +8,7 @@ Think about the services you have worked on, the problems you have seen, the use
 
 - There is a clear user need that is not being met well
 - You can describe it in one sentence
-- You could show the concept in 3–5 screens
+- You could show the concept as a journey of 3–5 steps
 - Your team has enough collective knowledge to define it without doing new research
 
 ## What kind of service are you working on?
@@ -48,7 +48,7 @@ Use the [team worksheet](../templates/team-worksheet.md) to capture your work as
 - A problem statement your team can explain in 30 seconds
 - At least one persona
 - A service map showing where you plan to intervene
-- Agreement on 3–5 screens to prototype
+- Agreement on which part of the journey your prototype will cover — typically 3–5 steps
 
 ## Are you ready for Sprint 2?
 
@@ -57,7 +57,7 @@ Before moving on, check your team has:
 - [ ] A problem statement you can explain in 30 seconds
 - [ ] At least one persona you believe in — not just what the AI generated
 - [ ] A service map showing where you plan to intervene
-- [ ] Agreement on which 3–5 screens to build
+- [ ] Agreement on the journey your prototype will cover — typically 3–5 steps from the user's perspective
 - [ ] Key decisions recorded in your worksheet
 
 ---

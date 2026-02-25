@@ -94,7 +94,9 @@ Use this worksheet to capture your team's work during Sprint 1. Fill it in as yo
 
 ## 4. Prototype scope
 
-**Which screens will you build? (3–5)**
+**What will your prototype cover?**
+
+Describe the steps of the journey you will build — typically 3–5 steps from the user's perspective.
 
 1.
 2.

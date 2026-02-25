@@ -1,6 +1,6 @@
 # AI-Enabled Service Design Workshop
 
-A reference resource for a one-day workshop where government digital professionals use AI tools to go from problem definition to working HTML prototype. Browse the guides, copy the prompts, and use the templates to structure your thinking and build something real.
+A reference resource for a one-day workshop where government digital professionals use AI tools to go from problem definition to a working prototype they can demo, share, and keep building on. Browse the guides, copy the prompts, and use the templates to structure your thinking and build something real.
 
 ## Who this is for
 
@@ -20,14 +20,14 @@ No prior AI experience is needed. Everything is explained step by step.
 | 15:30 | Break |
 | 15:45 | Team presentations and reflection |
 
-The morning is about framing a real problem using AI tools. The afternoon is about making something real. You will work in teams throughout, using M365 Copilot to sharpen your thinking and your prototyping tool to build a working prototype.
+The morning is about framing a real problem using AI tools. The afternoon is about making something real. You will work in teams throughout, using M365 Copilot to sharpen your thinking and your prototyping tool to build something you can demo in the room and take away.
 
 ## How the day works
 
 The day has two sprints:
 
 1. **Sprint 1: Define your own problem** — pick a real problem from your professional experience, frame it, create a persona, and map the service
-2. **Sprint 2: Build your prototype** — turn your problem into a working HTML prototype you can click through and present
+2. **Sprint 2: Build your prototype** — turn your problem into a working prototype you can click through, present, and take away
 
 ## Quick links
 
@@ -49,7 +49,7 @@ The day has two sprints:
 You will use two AI tools today:
 
 - **M365 Copilot** — for thinking, framing, and structuring. Problem statements, personas, service maps. [Getting started guide](guides/getting-started-m365-copilot.md)
-- **AWS Kiro or GitHub Copilot in VS Code** — for building HTML prototypes from plain English descriptions. Use whichever tool is installed on your machine.
+- **AWS Kiro or GitHub Copilot in VS Code** — for building your prototype from plain English descriptions. Generates self-contained HTML you can open in any browser with no setup. Use whichever tool is installed on your machine.
   - [Getting started with AWS Kiro](guides/getting-started-kiro.md) — if using Kiro, use **vibe mode** throughout the day
   - [Getting started with GitHub Copilot](guides/getting-started-github-copilot.md)
 

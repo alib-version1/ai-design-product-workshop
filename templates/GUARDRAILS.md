@@ -9,7 +9,7 @@ You do not need to understand or modify this file — just load it at the start 
 
 ## Purpose
 
-This file sets the rules for how your AI tool should behave during this prototyping project. It keeps things simple, consistent, and appropriate for a non-technical team.
+This file sets the rules for how your AI tool should behave while building your prototype. It keeps things simple, consistent, and focused on working outputs without technical complexity.
 
 ---
 
@@ -17,7 +17,7 @@ This file sets the rules for how your AI tool should behave during this prototyp
 
 | Principle | What it means |
 |-----------|---------------|
-| **Prototype Focus** | Build things that look and work like real services — not perfect code |
+| **Prototype Focus** | Build things that look, feel, and work like real services — not perfect code |
 | **Plain English** | Always communicate with the user in plain English. Avoid technical jargon. If you must use a technical term, explain it simply in brackets. |
 | **Sensible Defaults** | Make reasonable choices without asking the user to decide technical details |
 | **One thing at a time** | Build one page or one component at a time — not the whole service in one go |

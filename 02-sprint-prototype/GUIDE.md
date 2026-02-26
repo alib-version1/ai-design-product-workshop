@@ -8,6 +8,8 @@ Before your first prompt, tell your AI tool to follow the project guardrails. In
 
 This sets the AI to work the way your team needs — plain English output, no technical setup required, GOV.UK styling applied by default. You only need to do this once per session.
 
+The default guardrails template is in [templates/GUARDRAILS.md](../templates/GUARDRAILS.md). If your team is using a full-stack approach (Node.js, Express, Nunjucks), see the [advanced guardrails example](../examples/Guardrails.md) instead.
+
 ## Your brief
 
 Turn your problem, persona, and service map into something you can show — and take away. A working prototype that someone can click through, that demonstrates the concept, and that tells the story of how this service could work for your user.
